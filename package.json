@@ -35,7 +35,7 @@
     "postpublish": "zip -j build/d3-radial-chart.zip -- LICENSE README.md build/d3-radial-chart.js build/d3-radial-chart.min.js"
   },
   "devDependencies": {
-    "d3": "5.9.2",
+    "d3": "^6.7.0",
     "eslint": "5.16.0",
     "rollup": "1.12.4",
     "rollup-plugin-terser": "5.0.0",
